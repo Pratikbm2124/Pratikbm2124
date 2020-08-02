@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Deep Learning and Natural Language Processing
+- 🔭 I’m currently working on developing my skills.
+- 🌱 I’m currently learning Deep Learning and Natural Language Processing
 - 👯 I’m looking to collaborate on ... Data Science Projects
 - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
