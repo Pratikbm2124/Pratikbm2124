@@ -1,2 +1,2 @@
 ### Hi there 👋
-
+Passionate Data Scientist with skills to deliver insights via data analysis and visualization. 3 years of experience dealing with machine learning and deep learning models to tackle problems of Regression, Time Series, Computer Vision and Natural Language Processing. Strong programmer capable of creating, developing, testing and deploying AI services. Productionizing models, automating pipelines with Python, GCP and Kubeflow and optimizing model performance. Hands-on experience with new GenAI technolgies.
